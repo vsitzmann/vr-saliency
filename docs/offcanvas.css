@@ -40,3 +40,10 @@ li {
   width:75%; 
   font-size:14px
 }
+
+.bibtexsection {
+  font-family: "Courier",monospace;
+  font-size:12px;
+  white-space:pre;
+  background-color: #f4f4f4;
+}
