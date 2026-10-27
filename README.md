@@ -24,6 +24,6 @@ Understanding how people explore immersive virtual environments is crucial for m
 
 ## Using the dataset
 
-The dataset can be downloaded [here](https://drive.google.com/file/d/1BHtigR_egB6E-N4irZA9wSAH_902_PBh/view?usp=sharing). It contains the raw head and eye tracking files as .csv files as well as pre-processed .pck files (the preprocessing code will be made available soon).
+The dataset can be downloaded [here](https://drive.google.com/file/d/1BHtigR_egB6E-N4irZA9wSAH_902_PBh/view?usp=sharing). It contains the raw head and eye tracking files as .csv files as well as pre-processed .pck files. The (archival, Python 2) code that generated the .pck files from the .csv files is in [preprocessing/](preprocessing/), together with a summary of the pipeline.
 
 To explore the dataset with the sample code, simply unpack it into the root directory of the cloned github repo - it should create a directory "data". The code in the jupyter notebook "src/Analysis.ipynb" should then run just fine. 
